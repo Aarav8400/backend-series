@@ -1,0 +1,13 @@
+Install-think kaise compute ho rha tha (jab hamne download pe click kiya tha)
+install ka matlab hota hai aapke laptop/computer/tablet usme files ko copy karna
+
+node js hai khoob saara c++ ka code jo ki liya gaya hai chrome browser ke v8 engine ke code se aur c++ code jisko liya gaya usey wrap kar diya gaya js code se and ye hame allow karta hai ki ham js code likhe aur ye js code accept karega and c++ ke basis par aapko ek server environment bana kar dega,par sirf tab tak ye code chalayega jab tak aapka node "v8 engine and js wrapper" chaalu hai(can we say that node js is a lot of c++ code wrapped with js code which allows us to make server environment with js?: yes)
+
+###############################################################################################################
+npm usage-npm ek jagah hai jaha par khub saare package milte hai 
+
+package-banai banayi chize ya feature kahlate hai packages (example-ek app banana hai lrts say jo text ko voice me convert kar paye)
+
+package=files of codes
+
+npm ka node ka playstore samjho

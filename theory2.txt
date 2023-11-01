@@ -1,0 +1,18 @@
+what is backend?
+Backend developer wo banda hai jo ki server aur db program karta hai
+
+why backend?
+to make websites more usable and puposeful for the audience
+or we can say to make websites dynamic
+
+why no frontend alone?
+with frontend websites are static and they are of not much use
+
+what do we need?
+nodejs,mongodb,mongoosejs,expressjs
+
+what should we make to hit big companies?
+
+
+step-1 node js install-javascript runtime environment
+

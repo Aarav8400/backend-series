@@ -1,0 +1,13 @@
+can we say if any computer which is connected to internet and is programmed to recieve request and give response back is called server yes or no?yes
+
+Internet-
+server-
+client-server architecture
+router ip address mac-address
+
+http-hyper text transfer protocol
+https-hper text transfer protocol secured
+
+http-data ka aana jana yahi tai karta hai
+
+ports-kisi server se connect hone ke liye ports hote hai (koi number ex-3000,4000,1000 any random number)
