@@ -1,0 +1,22 @@
+express framework hai for node.js 
+express ka use case=>routing
+routing kya hai=> let say tum kisi v website pe gaye ex https://facebook.com/like/harsh
+to jab base url likhne ke baad slash lagta hai use route kahte hai
+to ye kyu padhna hai -ham chahte hai  /profile pe user ki profile dikhe aur /contact pe user ka contact dikhe
+routing-GET POST PUT PATCH DELETE 
+###############################################################################################################
+
+//GET POST kya hot hai ab?
+google pe search kar ke dekho-mai jo v search karta hu url pe wo data dikhta hai
+aur facebook pe login kar ke dekho-login karoge to url pe koi data nhi dikhta hai
+
+to jab v agar hame data url pe nhi dikhana hai to aise route ko POST route kahte hai
+aur jab v hame data url pe dikhana  hai to aise route ko GET route kahte hai
+
+_______________________________________________________________________________________________________________
+
+middleare ek aisa function hai jo kisi v route se pahle chlta hai,jiska matlab aapka route chalne se pahle agar aap koi kaam karana chahte ho to middleware ka upyog kiya ja sakta hai
+
+route pe chalne se pahle print karo on console
+
+route chalne se pahle routes pe hits counter ki value badhao

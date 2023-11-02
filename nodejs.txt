@@ -11,3 +11,8 @@ package-banai banayi chize ya feature kahlate hai packages (example-ek app banan
 package=files of codes
 
 npm ka node ka playstore samjho
+
+npm node ke saath mil jata hai
+
+npm i "aur koi v package" (syntax to install any package you need)
+
